@@ -1,3 +1,5 @@
+# This version has Chrome flags enabled to prevent random 504 errors and Chrome crashing and restarting.
+
 Prerender [![Stories in Ready](https://badge.waffle.io/prerender/prerender.png?label=ready&title=Ready)](https://waffle.io/prerender/prerender)
 ===========================
 
